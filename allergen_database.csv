@@ -1,0 +1,390 @@
+group_type,group_name,ingredient_type,ingredient
+allergen,milk,common_ingredient,milk
+allergen,milk,common_ingredient,whole milk
+allergen,milk,common_ingredient,skim milk
+allergen,milk,common_ingredient,cream
+allergen,milk,common_ingredient,butter
+allergen,milk,common_ingredient,buttermilk
+allergen,milk,common_ingredient,cheese
+allergen,milk,common_ingredient,yogurt
+allergen,milk,common_ingredient,ice cream
+allergen,milk,common_ingredient,milk powder
+allergen,milk,common_ingredient,evaporated milk
+allergen,milk,common_ingredient,condensed milk
+allergen,milk,common_ingredient,ghee
+allergen,milk,common_ingredient,custard
+allergen,milk,hidden_ingredient,casein
+allergen,milk,hidden_ingredient,caseinate
+allergen,milk,hidden_ingredient,whey
+allergen,milk,hidden_ingredient,lactose
+allergen,milk,hidden_ingredient,milk solids
+allergen,milk,hidden_ingredient,milk protein
+allergen,milk,hidden_ingredient,lactalbumin
+allergen,milk,hidden_ingredient,lactoglobulin
+allergen,milk,hidden_ingredient,rennet
+allergen,milk,hidden_ingredient,artificial butter flavor
+allergen,milk,hidden_ingredient,nougat
+allergen,egg,common_ingredient,egg
+allergen,egg,common_ingredient,egg white
+allergen,egg,common_ingredient,egg yolk
+allergen,egg,common_ingredient,mayonnaise
+allergen,egg,common_ingredient,meringue
+allergen,egg,common_ingredient,custard
+allergen,egg,common_ingredient,egg noodles
+allergen,egg,common_ingredient,aioli
+allergen,egg,hidden_ingredient,albumin
+allergen,egg,hidden_ingredient,ovalbumin
+allergen,egg,hidden_ingredient,ovomucoid
+allergen,egg,hidden_ingredient,ovoglobulin
+allergen,egg,hidden_ingredient,lysozyme
+allergen,egg,hidden_ingredient,egg wash
+allergen,peanut,common_ingredient,peanut
+allergen,peanut,common_ingredient,peanut butter
+allergen,peanut,common_ingredient,peanut flour
+allergen,peanut,common_ingredient,peanut oil
+allergen,peanut,common_ingredient,mixed nuts
+allergen,peanut,common_ingredient,groundnut
+allergen,peanut,hidden_ingredient,arachis oil
+allergen,peanut,hidden_ingredient,satay sauce
+allergen,peanut,hidden_ingredient,beer nuts
+allergen,peanut,hidden_ingredient,peanut protein
+allergen,tree_nut,common_ingredient,almond
+allergen,tree_nut,common_ingredient,cashew
+allergen,tree_nut,common_ingredient,walnut
+allergen,tree_nut,common_ingredient,pecan
+allergen,tree_nut,common_ingredient,pistachio
+allergen,tree_nut,common_ingredient,hazelnut
+allergen,tree_nut,common_ingredient,macadamia
+allergen,tree_nut,common_ingredient,brazil nut
+allergen,tree_nut,common_ingredient,pine nut
+allergen,tree_nut,common_ingredient,chestnut
+allergen,tree_nut,common_ingredient,nut butter
+allergen,tree_nut,common_ingredient,marzipan
+allergen,tree_nut,common_ingredient,praline
+allergen,tree_nut,hidden_ingredient,nut extract
+allergen,tree_nut,hidden_ingredient,almond paste
+allergen,tree_nut,hidden_ingredient,gianduja
+allergen,tree_nut,hidden_ingredient,pesto
+allergen,tree_nut,hidden_ingredient,nougat with nuts
+allergen,soy,common_ingredient,soy
+allergen,soy,common_ingredient,soybean
+allergen,soy,common_ingredient,soy milk
+allergen,soy,common_ingredient,soy flour
+allergen,soy,common_ingredient,soy sauce
+allergen,soy,common_ingredient,tofu
+allergen,soy,common_ingredient,tempeh
+allergen,soy,common_ingredient,miso
+allergen,soy,common_ingredient,edamame
+allergen,soy,common_ingredient,tamari
+allergen,soy,hidden_ingredient,soy lecithin
+allergen,soy,hidden_ingredient,soy protein
+allergen,soy,hidden_ingredient,soy isolate
+allergen,soy,hidden_ingredient,soy concentrate
+allergen,soy,hidden_ingredient,textured vegetable protein
+allergen,soy,hidden_ingredient,tvp
+allergen,soy,hidden_ingredient,shoyu
+allergen,soy,hidden_ingredient,natto
+allergen,wheat,common_ingredient,wheat
+allergen,wheat,common_ingredient,wheat flour
+allergen,wheat,common_ingredient,all purpose flour
+allergen,wheat,common_ingredient,bread flour
+allergen,wheat,common_ingredient,bread
+allergen,wheat,common_ingredient,pasta
+allergen,wheat,common_ingredient,cracker
+allergen,wheat,common_ingredient,breadcrumb
+allergen,wheat,common_ingredient,cake flour
+allergen,wheat,common_ingredient,couscous
+allergen,wheat,common_ingredient,bulgur
+allergen,wheat,common_ingredient,seitan
+allergen,wheat,hidden_ingredient,semolina
+allergen,wheat,hidden_ingredient,durum
+allergen,wheat,hidden_ingredient,farina
+allergen,wheat,hidden_ingredient,spelt
+allergen,wheat,hidden_ingredient,farro
+allergen,wheat,hidden_ingredient,kamut
+allergen,wheat,hidden_ingredient,einkorn
+allergen,wheat,hidden_ingredient,emmer
+allergen,wheat,hidden_ingredient,hydrolyzed wheat protein
+allergen,gluten,common_ingredient,wheat
+allergen,gluten,common_ingredient,barley
+allergen,gluten,common_ingredient,rye
+allergen,gluten,common_ingredient,malt
+allergen,gluten,common_ingredient,seitan
+allergen,gluten,common_ingredient,bread
+allergen,gluten,common_ingredient,pasta
+allergen,gluten,common_ingredient,beer
+allergen,gluten,hidden_ingredient,malt extract
+allergen,gluten,hidden_ingredient,malt syrup
+allergen,gluten,hidden_ingredient,malt vinegar
+allergen,gluten,hidden_ingredient,barley malt
+allergen,gluten,hidden_ingredient,brewers yeast
+allergen,gluten,hidden_ingredient,triticale
+allergen,fish,common_ingredient,fish
+allergen,fish,common_ingredient,salmon
+allergen,fish,common_ingredient,tuna
+allergen,fish,common_ingredient,cod
+allergen,fish,common_ingredient,halibut
+allergen,fish,common_ingredient,tilapia
+allergen,fish,common_ingredient,anchovy
+allergen,fish,common_ingredient,sardine
+allergen,fish,common_ingredient,fish sauce
+allergen,fish,common_ingredient,fish stock
+allergen,fish,hidden_ingredient,worcestershire sauce
+allergen,fish,hidden_ingredient,caesar dressing
+allergen,fish,hidden_ingredient,surimi
+allergen,fish,hidden_ingredient,bonito flakes
+allergen,fish,hidden_ingredient,fish gelatin
+allergen,shellfish,common_ingredient,shrimp
+allergen,shellfish,common_ingredient,prawn
+allergen,shellfish,common_ingredient,crab
+allergen,shellfish,common_ingredient,lobster
+allergen,shellfish,common_ingredient,crayfish
+allergen,shellfish,common_ingredient,clam
+allergen,shellfish,common_ingredient,mussel
+allergen,shellfish,common_ingredient,oyster
+allergen,shellfish,common_ingredient,scallop
+allergen,shellfish,common_ingredient,squid
+allergen,shellfish,common_ingredient,octopus
+allergen,shellfish,hidden_ingredient,shrimp paste
+allergen,shellfish,hidden_ingredient,krill
+allergen,shellfish,hidden_ingredient,seafood flavoring
+allergen,shellfish,hidden_ingredient,cuttlefish ink
+allergen,sesame,common_ingredient,sesame
+allergen,sesame,common_ingredient,sesame seed
+allergen,sesame,common_ingredient,sesame oil
+allergen,sesame,common_ingredient,tahini
+allergen,sesame,common_ingredient,halva
+allergen,sesame,common_ingredient,gomasio
+allergen,sesame,hidden_ingredient,benne
+allergen,sesame,hidden_ingredient,gingelly
+allergen,sesame,hidden_ingredient,zaatar
+allergen,mustard,common_ingredient,mustard
+allergen,mustard,common_ingredient,mustard seed
+allergen,mustard,common_ingredient,yellow mustard
+allergen,mustard,common_ingredient,dijon mustard
+allergen,mustard,common_ingredient,whole grain mustard
+allergen,mustard,hidden_ingredient,mustard powder
+allergen,mustard,hidden_ingredient,mustard flour
+allergen,mustard,hidden_ingredient,pickling spice
+allergen,celery,common_ingredient,celery
+allergen,celery,common_ingredient,celery root
+allergen,celery,common_ingredient,celeriac
+allergen,celery,common_ingredient,celery seed
+allergen,celery,common_ingredient,celery salt
+allergen,celery,hidden_ingredient,stock cubes
+allergen,celery,hidden_ingredient,soup base
+allergen,celery,hidden_ingredient,seasoning blend
+allergen,corn,common_ingredient,corn
+allergen,corn,common_ingredient,cornmeal
+allergen,corn,common_ingredient,corn flour
+allergen,corn,common_ingredient,corn starch
+allergen,corn,common_ingredient,corn syrup
+allergen,corn,common_ingredient,popcorn
+allergen,corn,common_ingredient,masa
+allergen,corn,common_ingredient,hominy
+allergen,corn,common_ingredient,grits
+allergen,corn,hidden_ingredient,dextrose
+allergen,corn,hidden_ingredient,maltodextrin
+allergen,corn,hidden_ingredient,glucose syrup
+allergen,corn,hidden_ingredient,high fructose corn syrup
+allergen,corn,hidden_ingredient,modified food starch
+allergen,coconut,common_ingredient,coconut
+allergen,coconut,common_ingredient,coconut milk
+allergen,coconut,common_ingredient,coconut cream
+allergen,coconut,common_ingredient,coconut oil
+allergen,coconut,common_ingredient,coconut flakes
+allergen,coconut,hidden_ingredient,coconut extract
+allergen,coconut,hidden_ingredient,coconut sugar
+allergen,garlic,common_ingredient,garlic
+allergen,garlic,common_ingredient,garlic powder
+allergen,garlic,common_ingredient,garlic salt
+allergen,garlic,common_ingredient,garlic paste
+allergen,garlic,hidden_ingredient,seasoning blend
+allergen,garlic,hidden_ingredient,spice blend
+allergen,onion,common_ingredient,onion
+allergen,onion,common_ingredient,onion powder
+allergen,onion,common_ingredient,onion salt
+allergen,onion,common_ingredient,shallot
+allergen,onion,common_ingredient,scallion
+allergen,onion,common_ingredient,leek
+allergen,onion,common_ingredient,chive
+allergen,onion,hidden_ingredient,seasoning blend
+allergen,onion,hidden_ingredient,spice blend
+allergen,legume,common_ingredient,lentil
+allergen,legume,common_ingredient,chickpea
+allergen,legume,common_ingredient,pea
+allergen,legume,common_ingredient,green pea
+allergen,legume,common_ingredient,split pea
+allergen,legume,common_ingredient,black bean
+allergen,legume,common_ingredient,kidney bean
+allergen,legume,common_ingredient,navy bean
+allergen,legume,hidden_ingredient,pea protein
+allergen,legume,hidden_ingredient,chickpea flour
+allergen,legume,hidden_ingredient,gram flour
+allergen,legume,hidden_ingredient,besan
+food_restriction,vegan,avoid,beef
+food_restriction,vegan,avoid,pork
+food_restriction,vegan,avoid,ham
+food_restriction,vegan,avoid,bacon
+food_restriction,vegan,avoid,chicken
+food_restriction,vegan,avoid,turkey
+food_restriction,vegan,avoid,duck
+food_restriction,vegan,avoid,lamb
+food_restriction,vegan,avoid,goat
+food_restriction,vegan,avoid,veal
+food_restriction,vegan,avoid,fish
+food_restriction,vegan,avoid,salmon
+food_restriction,vegan,avoid,tuna
+food_restriction,vegan,avoid,anchovy
+food_restriction,vegan,avoid,shrimp
+food_restriction,vegan,avoid,crab
+food_restriction,vegan,avoid,lobster
+food_restriction,vegan,avoid,egg
+food_restriction,vegan,avoid,milk
+food_restriction,vegan,avoid,butter
+food_restriction,vegan,avoid,cheese
+food_restriction,vegan,avoid,yogurt
+food_restriction,vegan,avoid,cream
+food_restriction,vegan,avoid,whey
+food_restriction,vegan,avoid,casein
+food_restriction,vegan,avoid,honey
+food_restriction,vegan,avoid,gelatin
+food_restriction,vegan,avoid,lard
+food_restriction,vegan,avoid,carmine
+food_restriction,vegan,avoid,beeswax
+food_restriction,vegan,allowed_with_condition,plant milk
+food_restriction,vegan,allowed_with_condition,tofu
+food_restriction,vegan,allowed_with_condition,tempeh
+food_restriction,vegan,allowed_with_condition,agar
+food_restriction,vegan,allowed_with_condition,pectin
+food_restriction,vegan,allowed_with_condition,vegan cheese
+food_restriction,vegetarian,avoid,beef
+food_restriction,vegetarian,avoid,pork
+food_restriction,vegetarian,avoid,ham
+food_restriction,vegetarian,avoid,bacon
+food_restriction,vegetarian,avoid,chicken
+food_restriction,vegetarian,avoid,turkey
+food_restriction,vegetarian,avoid,duck
+food_restriction,vegetarian,avoid,lamb
+food_restriction,vegetarian,avoid,goat
+food_restriction,vegetarian,avoid,veal
+food_restriction,vegetarian,avoid,fish
+food_restriction,vegetarian,avoid,salmon
+food_restriction,vegetarian,avoid,tuna
+food_restriction,vegetarian,avoid,anchovy
+food_restriction,vegetarian,avoid,shrimp
+food_restriction,vegetarian,avoid,crab
+food_restriction,vegetarian,avoid,lobster
+food_restriction,vegetarian,avoid,gelatin
+food_restriction,vegetarian,avoid,lard
+food_restriction,vegetarian,avoid,fish sauce
+food_restriction,vegetarian,allowed_with_condition,milk
+food_restriction,vegetarian,allowed_with_condition,cheese
+food_restriction,vegetarian,allowed_with_condition,yogurt
+food_restriction,vegetarian,allowed_with_condition,egg
+food_restriction,vegetarian,allowed_with_condition,butter
+food_restriction,pescatarian,avoid,beef
+food_restriction,pescatarian,avoid,pork
+food_restriction,pescatarian,avoid,ham
+food_restriction,pescatarian,avoid,bacon
+food_restriction,pescatarian,avoid,chicken
+food_restriction,pescatarian,avoid,turkey
+food_restriction,pescatarian,avoid,duck
+food_restriction,pescatarian,avoid,lamb
+food_restriction,pescatarian,avoid,goat
+food_restriction,pescatarian,avoid,veal
+food_restriction,pescatarian,avoid,gelatin
+food_restriction,pescatarian,avoid,lard
+food_restriction,pescatarian,allowed_with_condition,fish
+food_restriction,pescatarian,allowed_with_condition,salmon
+food_restriction,pescatarian,allowed_with_condition,tuna
+food_restriction,pescatarian,allowed_with_condition,shrimp
+food_restriction,pescatarian,allowed_with_condition,crab
+food_restriction,pescatarian,allowed_with_condition,egg
+food_restriction,pescatarian,allowed_with_condition,milk
+food_restriction,pescatarian,allowed_with_condition,cheese
+food_restriction,halal,avoid,pork
+food_restriction,halal,avoid,ham
+food_restriction,halal,avoid,bacon
+food_restriction,halal,avoid,lard
+food_restriction,halal,avoid,gelatin
+food_restriction,halal,avoid,alcohol
+food_restriction,halal,avoid,wine
+food_restriction,halal,avoid,beer
+food_restriction,halal,avoid,rum extract
+food_restriction,halal,avoid,vanilla extract
+food_restriction,halal,allowed_with_condition,beef
+food_restriction,halal,allowed_with_condition,chicken
+food_restriction,halal,allowed_with_condition,lamb
+food_restriction,halal,allowed_with_condition,gelatin
+food_restriction,halal,allowed_with_condition,rennet
+food_restriction,kosher,avoid,pork
+food_restriction,kosher,avoid,ham
+food_restriction,kosher,avoid,bacon
+food_restriction,kosher,avoid,shrimp
+food_restriction,kosher,avoid,crab
+food_restriction,kosher,avoid,lobster
+food_restriction,kosher,avoid,clam
+food_restriction,kosher,avoid,mussel
+food_restriction,kosher,avoid,oyster
+food_restriction,kosher,avoid,scallop
+food_restriction,kosher,avoid,non kosher gelatin
+food_restriction,kosher,allowed_with_condition,beef
+food_restriction,kosher,allowed_with_condition,chicken
+food_restriction,kosher,allowed_with_condition,lamb
+food_restriction,kosher,allowed_with_condition,wine
+food_restriction,kosher,allowed_with_condition,gelatin
+food_restriction,kosher,allowed_with_condition,cheese
+food_restriction,gluten_free,avoid,wheat
+food_restriction,gluten_free,avoid,barley
+food_restriction,gluten_free,avoid,rye
+food_restriction,gluten_free,avoid,malt
+food_restriction,gluten_free,avoid,semolina
+food_restriction,gluten_free,avoid,durum
+food_restriction,gluten_free,avoid,spelt
+food_restriction,gluten_free,avoid,farro
+food_restriction,gluten_free,avoid,seitan
+food_restriction,gluten_free,avoid,beer
+food_restriction,gluten_free,allowed_with_condition,rice
+food_restriction,gluten_free,allowed_with_condition,corn
+food_restriction,gluten_free,allowed_with_condition,quinoa
+food_restriction,gluten_free,allowed_with_condition,buckwheat
+food_restriction,gluten_free,allowed_with_condition,certified gluten free oats
+food_restriction,dairy_free,avoid,milk
+food_restriction,dairy_free,avoid,cream
+food_restriction,dairy_free,avoid,butter
+food_restriction,dairy_free,avoid,cheese
+food_restriction,dairy_free,avoid,yogurt
+food_restriction,dairy_free,avoid,whey
+food_restriction,dairy_free,avoid,casein
+food_restriction,dairy_free,avoid,lactose
+food_restriction,dairy_free,avoid,ghee
+food_restriction,dairy_free,allowed_with_condition,plant milk
+food_restriction,dairy_free,allowed_with_condition,vegan butter
+food_restriction,dairy_free,allowed_with_condition,dairy free cheese
+food_restriction,egg_free,avoid,egg
+food_restriction,egg_free,avoid,egg white
+food_restriction,egg_free,avoid,egg yolk
+food_restriction,egg_free,avoid,albumin
+food_restriction,egg_free,avoid,ovalbumin
+food_restriction,egg_free,avoid,lysozyme
+food_restriction,egg_free,avoid,mayonnaise
+food_restriction,egg_free,avoid,meringue
+food_restriction,egg_free,allowed_with_condition,egg replacer
+food_restriction,egg_free,allowed_with_condition,aquafaba
+food_restriction,nut_free,avoid,peanut
+food_restriction,nut_free,avoid,peanut butter
+food_restriction,nut_free,avoid,almond
+food_restriction,nut_free,avoid,cashew
+food_restriction,nut_free,avoid,walnut
+food_restriction,nut_free,avoid,pecan
+food_restriction,nut_free,avoid,pistachio
+food_restriction,nut_free,avoid,hazelnut
+food_restriction,nut_free,avoid,macadamia
+food_restriction,nut_free,avoid,brazil nut
+food_restriction,nut_free,avoid,pine nut
+food_restriction,nut_free,avoid,marzipan
+food_restriction,nut_free,avoid,praline
+food_restriction,nut_free,avoid,nut extract
+food_restriction,nut_free,allowed_with_condition,sunflower seed butter
+food_restriction,nut_free,allowed_with_condition,pumpkin seed butter

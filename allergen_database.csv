@@ -388,3 +388,22 @@ food_restriction,nut_free,avoid,praline
 food_restriction,nut_free,avoid,nut extract
 food_restriction,nut_free,allowed_with_condition,sunflower seed butter
 food_restriction,nut_free,allowed_with_condition,pumpkin seed butter
+allergen,shellfish,common_ingredient,calamari
+allergen,wheat,common_ingredient,spaghetti
+allergen,wheat,common_ingredient,hotdog bun
+allergen,wheat,common_ingredient,sandwich bread
+allergen,wheat,common_ingredient,macaroni
+allergen,milk,common_ingredient,cheese
+allergen,milk,common_ingredient,burger cheese
+food_restriction,vegan,avoid,meatballs
+food_restriction,vegetarian,avoid,meatballs
+food_restriction,vegan,avoid,hotdog
+food_restriction,vegetarian,avoid,hotdog
+allergen,wheat,common_ingredient,burger
+allergen,wheat,common_ingredient,sandwich
+allergen,wheat,common_ingredient,spaghetti
+allergen,wheat,common_ingredient,macaroni
+allergen,wheat,common_ingredient,noodle
+allergen,wheat,common_ingredient,pasta
+allergen,wheat,common_ingredient,batter
+allergen,wheat,common_ingredient,breaded

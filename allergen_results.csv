@@ -1,0 +1,16 @@
+food_item,allergens,matched_ingredients,method,confidence
+Mushroom Burger,"Dairy, Wheat","bread, burger, cheese, wheat",rule-based + ingredient hints,0.95
+Crispy Fried Chicken,"Eggs, Wheat","batter, breaded, egg, wheat",rule-based + ingredient hints,0.95
+Fish & Chips,Fish,fish,rule-based + ingredient hints,0.95
+Spaghetti & Meatballs,Wheat,"pasta, spaghetti, wheat",rule-based + ingredient hints,0.95
+Hotdog Sandwich,Wheat,"bread, sandwich, wheat",rule-based + ingredient hints,0.95
+Macaroni Soup,"Celery, Dairy, Garlic, Onion, Wheat","celery, cheese, garlic, macaroni, onion, pasta, wheat",rule-based + ingredient hints,0.95
+Tex Mex Chili,"Garlic, Onion","garlic, onion",rule-based + ingredient hints,0.95
+French Fries,uncertain,ML prediction,ML model,0.319
+Calamari,"Eggs, Shellfish, Wheat","batter, calamari, egg, squid, wheat",rule-based + ingredient hints,0.95
+Beef Taco,"Corn, Dairy, Wheat","cheese, corn, wheat",rule-based + ingredient hints,0.95
+Purified Water,uncertain,ML prediction,ML model,0.247
+Sparkling Water,uncertain,ML prediction,ML model,0.26
+Soda In A Bottle,uncertain,ML prediction,ML model,0.303
+Orange Juice,uncertain,ML prediction,ML model,0.26
+Fresh Lemonade,uncertain,ML prediction,ML model,0.224

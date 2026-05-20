@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/*.csv
+restaurant-menus.csv
+models/*.pkl
+
+.DS_Store

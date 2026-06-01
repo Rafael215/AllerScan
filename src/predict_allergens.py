@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 MODEL_PATH    = ROOT / "models" / "allergen_model.pkl"
 MLB_PATH      = ROOT / "models" / "allergen_binarizer.pkl"
-DATABASE_PATH = ROOT / "allergen_database.csv"
+DATABASE_PATH = ROOT / "data" / "sample" / "sample_allergen_database.csv"
 
 # Load model + binarizer
 model = joblib.load(MODEL_PATH)

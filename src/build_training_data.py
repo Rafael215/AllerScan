@@ -151,8 +151,8 @@ def enrich_text(text: str) -> str:
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 ROOT          = Path(__file__).resolve().parent.parent
-MENUS_PATH    = ROOT / "restaurant-menus.csv"
-DB_PATH       = ROOT / "allergen_database.csv"
+MENUS_PATH    = ROOT / "data" / "restaurant-menus.csv"
+DB_PATH       = ROOT / "data" / "sample" / "sample_allergen_database.csv"
 EXISTING_PATH = ROOT / "data" / "food_ingredients_and_allergens.csv"
 OUTPUT_PATH   = ROOT / "data" / "training_data.csv"
 

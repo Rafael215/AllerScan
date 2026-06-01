@@ -1,10 +1,48 @@
-.venv/
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebooks
 .ipynb_checkpoints/
 
-data/*.csv
-restaurant-menus.csv
-models/*.pkl
-
+# Editor/user settings
+.vscode/
 .DS_Store
+
+# Large or raw datasets
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.parquet
+
+# Keep small sample data
+!data/sample/
+!data/sample/*
+
+# Trained models and ML artifacts
+models/*
+!models/.gitkeep
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Generated outputs/results
+outputs/*
+!outputs/.gitkeep
+
+# Logs
+*.log
+
+# Temporary generated images
+output*.jpg
+output*.png

@@ -54,4 +54,5 @@ AllerScan/
 │
 ├── README.md
 ├── DATA.md
-└── .gitignore
+├── .gitignore
+└── UI_Design.py
